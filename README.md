@@ -1,3 +1,15 @@
+How to run a project on a local server?
+
+1. System Requirements:
+Node.js 18.17 or later.
+macOS, Windows (including WSL), and Linux are supported.
+2. git clone https://github.com/milan9111/task-nextjs.git
+3. npm i
+4. npm run dev
+5. The server will start at http://localhost:3000
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
